@@ -1,0 +1,70 @@
+{
+    "name": "ContentGems",
+    "description": "ContentGems automatically powers your social media, website, & customer newsletter with engaging curated content. Join a live demo https:\/\/t.co\/btzKkJ2Jhe.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1336-contentgems.jpg",
+    "tags": [
+        "api provider",
+        "content",
+        "content discovery",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/contentgems\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ContentGems",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1336-contentgems.jpg",
+            "humanURL": "http:\/\/contentgems.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/contentgems-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/contentgems.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.contentgems.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.contentgems.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/contentgems"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/contentgems.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "contact@contentgems.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/intigi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ContentGems"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/contentgems.com\/"
+        }
+    ]
+}
